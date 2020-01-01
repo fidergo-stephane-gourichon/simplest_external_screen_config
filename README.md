@@ -20,3 +20,13 @@ For example:
     simplest_external_screen_config above
     simplest_external_screen_config below
 
+
+## Installation instructions for non-developers
+
+You sill have to know a minimum GNU/Linux usage.
+
+* Download the content from this link (save as...): https://github.com/fidergo-stephane-gourichon/simplest_external_screen_config/raw/master/simplest_external_screen_config.sh
+* Save in a convenient place, for example a `bin` directory in your account.
+* Allow execution (either using your file manager or `chmod a+x simplest_external_screen_config.sh`).
+
+Alternatively, as root copy it to `/usr/local/bin` for all local users to benefit.
